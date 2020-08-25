@@ -7,7 +7,7 @@
  </p>
  ## 2.Location Enetered
   <p>
-  <img src="https://firebasestorage.googleapis.com/v0/b/myhiapp.appspot.com/o/Location%20Entered.jpeg?alt=media&token=ff45686b-7844-4735-a5a8-      d2c126ab69ef" width="290">
+  <img src="https://firebasestorage.googleapis.com/v0/b/myhiapp.appspot.com/o/Location%20Entered.jpeg?alt=media&token=ff45686b-7844-4735-a5a8-d2c126ab69ef" width="290">
  </p>
  ## 3.Result
   <p>
