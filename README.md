@@ -4,5 +4,5 @@
  
  ## 1.UI of the App
   <p>
-  <img src="https://drive.google.com/file/d/1VpRPnggB4rkyFK9v-2pn-yCJJMDrpN7i/view?usp=sharing" width="290">
+  <img src="https://firebasestorage.googleapis.com/v0/b/myhiapp.appspot.com/o/UI.jpeg?alt=media&token=0cd752e7-6f0b-43cb-9c24-837e98a9f8fe" width="290">
  </p>
